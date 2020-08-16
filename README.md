@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## youtube-app
+
+This is a React web App that emulates youtube App.
+
 ## Available Scripts
 
 In the project directory, you can run:
